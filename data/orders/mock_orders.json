@@ -1,0 +1,14 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD-1042",
+      "customer_id": "CUST-1001",
+      "product_name": "Wireless Headphones",
+      "order_status": "delayed",
+      "payment_status": "paid",
+      "total_amount": 2499,
+      "currency": "INR",
+      "tracking_status": "In Transit"
+    }
+  ]
+}

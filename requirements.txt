@@ -1,0 +1,42 @@
+
+# Core
+python-dotenv
+pydantic
+pydantic-settings
+
+# Backend API
+fastapi
+uvicorn
+httpx
+python-multipart
+
+# Agentic AI
+langgraph
+langchain
+langchain-core
+google-genai
+mcp
+
+# RAG
+chromadb
+sentence-transformers
+pypdf
+langchain-text-splitters
+
+# Database
+sqlalchemy
+
+# Frontend
+streamlit
+plotly
+
+# Evaluation and Testing
+pytest
+pytest-asyncio
+scikit-learn
+
+# Utilities
+pandas
+numpy
+
+email-validator

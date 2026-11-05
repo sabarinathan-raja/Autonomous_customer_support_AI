@@ -1,0 +1,44 @@
+
+{
+  "policies": [
+    {
+      "policy_id": "REF-001",
+      "title": "Refund Policy",
+      "rules": [
+        "Customers can request a refund according to applicable refund conditions.",
+        "Order status must be verified before processing a refund.",
+        "Refund eligibility must be checked against the applicable policy.",
+        "Cases requiring special approval must be escalated to human support."
+      ]
+    },
+    {
+      "policy_id": "DEL-001",
+      "title": "Delayed Delivery Policy",
+      "rules": [
+        "Customers can report delayed deliveries.",
+        "The current order tracking status must be verified.",
+        "Delivery estimates must not be guaranteed without verified information.",
+        "Unresolved delivery complaints can be escalated."
+      ]
+    },
+    {
+      "policy_id": "CAN-001",
+      "title": "Order Cancellation Policy",
+      "rules": [
+        "Order status must be checked before cancellation.",
+        "Cancellation eligibility depends on the order processing status.",
+        "Orders that cannot be cancelled automatically must be escalated."
+      ]
+    },
+    {
+      "policy_id": "DMG-001",
+      "title": "Damaged Product Policy",
+      "rules": [
+        "Customers should provide details of the damaged product.",
+        "Supporting evidence may be required.",
+        "Replacement or refund eligibility must be verified.",
+        "Exceptions require human review."
+      ]
+    }
+  ]
+}
